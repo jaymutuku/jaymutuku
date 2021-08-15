@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning API test automation.
 
-- 👯 I’m looking to collaborate on designing performance & security test cases for APIs.
+- 👯 I’m looking to collaborate on designing performance & contract test cases for APIs.
 
 
 - 💬 Ask me about  test automation
