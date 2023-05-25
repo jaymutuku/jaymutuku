@@ -2,6 +2,6 @@
 
 I renamed my Github account to:
 
-https://github.com/kazikwisha
+https://github.com/xbns
 
- [Here](https://kazikwisha.github.io/profile) is my online profile incase you have the old one.
+ [Here](https://xbns.github.io/profile) is my online profile incase you have the old one.
